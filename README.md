@@ -37,4 +37,4 @@ Michaël vous a fourni des spécifications pour le dashboard interactif. Celui-c
 
 
 # Dashboard 
-- Déployé via Streamlit [lien](URL=https://share.streamlit.io/mikaleroy/implementez-un-modele-de-scoring/main/APP/application.py)
+- Déployé via Streamlit [lien](https://share.streamlit.io/mikaleroy/implementez-un-modele-de-scoring/main/APP/application.py)
