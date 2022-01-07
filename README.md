@@ -34,3 +34,7 @@ Michaël vous a fourni des spécifications pour le dashboard interactif. Celui-c
 * Rédiger une note méthodologique afin de communiquer sa démarche de modélisation
 * Utiliser un logiciel de version de code pour assurer l’intégration du modèle
 * Déployer un modèle via une API dans le Web
+
+
+# Dashboard 
+- Déployé via Streamlit [lien](URL=https://share.streamlit.io/mikaleroy/implementez-un-modele-de-scoring/main/APP/application.py)
